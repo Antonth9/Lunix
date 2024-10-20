@@ -1,0 +1,10 @@
+/var/log/test_logs_1 80
+/tmp/logs 50
+/nonexistent/logs 60
+/home/user/logs 70
+/logs 30
+/home/anton/Р”РѕРєСѓРјРµРЅС‚С‹/laba/log 55
+/home/anton/Р”РѕРєСѓРјРµРЅС‚С‹/laba/log 155
+/home/anton/Р”РѕРєСѓРјРµРЅС‚С‹/laba/log -1
+sadsadsa sad
+f8dsa ds
